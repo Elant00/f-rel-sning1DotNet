@@ -28,5 +28,7 @@ namespace föreläsning1DotNet.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        // din systers mamma, amina jevdet//
     }
 }
